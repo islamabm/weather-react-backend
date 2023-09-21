@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Spotify-react-frontend/static/css/main.ce4d6418.css",
-    "main.js": "/Spotify-react-frontend/static/js/main.f3055059.js",
-    "static/js/787.a19c38e9.chunk.js": "/Spotify-react-frontend/static/js/787.a19c38e9.chunk.js",
-    "index.html": "/Spotify-react-frontend/index.html",
-    "main.ce4d6418.css.map": "/Spotify-react-frontend/static/css/main.ce4d6418.css.map",
-    "main.f3055059.js.map": "/Spotify-react-frontend/static/js/main.f3055059.js.map",
-    "787.a19c38e9.chunk.js.map": "/Spotify-react-frontend/static/js/787.a19c38e9.chunk.js.map"
+    "main.css": "/weather-react/static/css/main.d116ab6b.css",
+    "main.js": "/weather-react/static/js/main.6f432e28.js",
+    "static/js/787.d9312eb8.chunk.js": "/weather-react/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/weather-react/index.html",
+    "main.d116ab6b.css.map": "/weather-react/static/css/main.d116ab6b.css.map",
+    "main.6f432e28.js.map": "/weather-react/static/js/main.6f432e28.js.map",
+    "787.d9312eb8.chunk.js.map": "/weather-react/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce4d6418.css",
-    "static/js/main.f3055059.js"
+    "static/css/main.d116ab6b.css",
+    "static/js/main.6f432e28.js"
   ]
 }
